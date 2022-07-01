@@ -1,9 +1,9 @@
 {
-    "TITLE": "JOY BOY IS HERE",
-    "TAG_LINE": "Where the pirates come to chill in",
+    "TITLE": "FIND TUNES",
+    "TAG_LINE": "You're in",
     "LOCATION": "Mumbai",
-    "SEARCH_PLACE_HOLDER": "input search text",
-    "EVENT_DETAIL": "Detail",
-    "FOOTER_1": "Mi Casa",
-    "FOOTER_2": "BARATI"
+    "SEARCH_PLACE_HOLDER": "Search for events, musical nights and more",
+    "EVENT_DETAIL": "Show More",
+    "FOOTER_1": "Developed for the budding artists.",
+    "FOOTER_2": "Copyright© Baritone 2022. All Rights Reserved."
 }
