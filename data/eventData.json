@@ -31,5 +31,16 @@
         "contact": "150000",
         "email": "Kid@westblue.com",
         "image": "https://gw.alipayobjects.com/zos/rmsportal/mqaQswcyDLcXyDKnZfES.png"
+    },
+    {
+        "id": 3,
+        "href": "https://ant.design",
+        "title": "Buggy Pirates",
+        "avatar": "https://static.wikia.nocookie.net/onepiece/images/f/f7/Buggy_Anime_Post_Timeskip_Infobox.png",
+        "description": "The Buggy Pirates are a band of pirates led by Buggy, who is a former member of the late Gol D. Roger's crew.",
+        "content": "The crew's Jolly Roger features the standard comic-style skull-and-crossbones, modified with a large red nose and black 'makeup' crosses on the eye sockets—both reflecting Buggy's personal motif.",
+        "contact": "150000",
+        "email": "Buggy@westblue.com",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/1/11/Buggy_Pirates%27_Jolly_Roger.png"
     }
 ]
