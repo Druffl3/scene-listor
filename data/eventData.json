@@ -42,5 +42,93 @@
         "contact": "9439708327",
         "email": "contactforbusiness@gmail.com",
         "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-poetry-open-mic-night-1-free-cappaccino-0-2022-5-30-t-12-59-24.jpg"
+    },
+	{
+        "id": 4,
+        "href": "https://ant.design",
+        "title": "An Evening of Brazilian Jazz",
+        "avatar": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-an-evening-of-brazilian-jazz-0-2022-6-10-t-15-15-33.jpg",
+        "description": "Jazz | English | 2 hours",
+        "content": "The music revolves around jazz-fusion, funk, R&B and Latin. It will feature music by Brazilian jazz musicians and composers like Hermeto Pascoal, Milton Nascimento, Antônio Carlos Jobim, João Bosco and more.",
+        "contact": "9439708327",
+        "email": "contactforbusiness@gmail.com",
+        "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-an-evening-of-brazilian-jazz-0-2022-6-10-t-15-15-33.jpg"
+    },
+	{
+        "id": 5,
+        "href": "https://ant.design",
+        "title": "Barkha Ritu | Banyan Tree",
+        "avatar": "https://in.bmscdn.com/Artist/31640.jpg",
+        "description": "Classical | English, Hindi | 8 years + | 4 hours",
+        "content": "Over many years, Banyan Trees’s ‘Barkha Ritu’ has truly cemented itself as a celebration of the monsoons, also enabling the propagation of India’s rich intangible heritage. Even through the pandemic, this festival was presented in a hybrid format, despite all odds, and we believe that we are perfectly poised to embark upon the 21st year of this magical musical journey.",
+        "contact": "9439708327",
+        "email": "contactforbusiness@gmail.com",
+        "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-barkha-ritu-0-2022-6-27-t-15-10-18.jpg"
+    },
+	{
+        "id": 6,
+        "href": "https://ant.design",
+        "title": "Beatles Tribute",
+        "avatar": "https://in.bmscdn.com/Artist/7422.jpg",
+        "description": "Pop | English | 2 hours",
+        "content": "Come together as it’s time to Twist and Shout on a Yellow Submarine while we hold your hand on a journey where you Imagine the greatest for Eight Days a Week. it’s the songs of the Beatles on stage, being brought to life in a way you’ve never seen before. come to our Abbey Road on stage.",
+        "contact": "9439708327",
+        "email": "contactforbusiness@gmail.com",
+        "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-beatles-tribute-0-2022-5-10-t-9-28-5.jpg"
+    },
+	{
+        "id": 7,
+        "href": "https://ant.design",
+        "title": "SOI@Prithvi: Classics",
+        "avatar": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-soi-prithvi-classic-mondays-0-2022-6-30-t-4-51-45.jpg",
+        "description": "Western Classical | 8 years + | 1 hour 30 minutes",
+        "content": "Musicians of the Symphony Orchestra of India will perform works by Vivaldi, Shostakovich, Piazzolla and more.",
+        "contact": "9439708327",
+        "email": "contactforbusiness@gmail.com",
+        "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-soi-prithvi-classic-mondays-0-2022-6-30-t-4-51-45.jpg"
+    },
+	{
+        "id": 8,
+        "href": "https://ant.design",
+        "title": "Beyond the Lines Open Mic (Poetry, Music,Comedy)",
+        "avatar": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-beyond-the-lines-open-mic-poetry-music-comedy-0-2022-6-28-t-12-11-13.jpg",
+        "description": "Music Shows | English, Hindi, Urdu | 12 years + | 2 hours",
+        "content": "Hooted1ce brings back its Open mic for all , which has Poetry, Music, Comedy and Storytelling combined with some featured artists at Huddle. Please join us for some amazing session and to Participate in our open mic whatsapp with your name on +91-7045011032 and to be as an audience , just book a ticket. Hurry up as limited seats with all precautions and safety measures.",
+        "contact": "9439708327",
+        "email": "contactforbusiness@gmail.com",
+        "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-beyond-the-lines-open-mic-poetry-music-comedy-0-2022-6-28-t-12-11-13.jpg"
+    },
+	{
+        "id": 9,
+        "href": "https://ant.design",
+        "title": "TCC Bandra: Very Late Night Comedy",
+        "avatar": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-tcc-bandra-very-late-night-comedy-0-2022-4-13-t-11-50-36.jpg",
+        "description": "Comedy | Hindi, English | 18 years + | 1 hour 15 minutes",
+        "content": "Very Late Night Comedy is our signature show that features 6 Club Comedians every weekend. The show may or may not be headlined by a very famous Comedian.",
+        "contact": "9439708327",
+        "email": "contactforbusiness@gmail.com",
+        "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-tcc-bandra-very-late-night-comedy-0-2022-4-13-t-11-50-36.jpg"
+    },
+	{
+        "id": 10,
+        "href": "https://ant.design",
+        "title": "Petal Stories and Araj",
+        "avatar": "https://in.bmscdn.com/Artist/2010351.jpg",
+        "description": "Music, Dance, Poetry | English | 2 hours 10 minutes",
+        "content": "Each flower has its own significance and special message and when captured through dance, poetry, and music, they come alive to inspire us and create magic. Araj, a crossover classical group, will perform traditional music with a contemporary approach and brilliance.",
+        "contact": "9439708327",
+        "email": "contactforbusiness@gmail.com",
+        "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-petal-stories-and-araj-0-2022-6-14-t-10-45-4.jpg"
+    },
+	{
+        "id": 11,
+        "href": "https://ant.design",
+        "title": "Timeless Pankaj Udhas - A Live Ghazal Concert",
+        "avatar": "https://in.bmscdn.com/Artist/8586.jpg",
+        "description": "Ghazal | Hindi, English | 3 hours",
+        "content": "Pankaj Udhas live in Concert will feature all his hit Ghazals & Nazms along with his film songs. The audience can also send in their requests, which will be performed live which is a special part of the event. This is also special as this starts the 40th year celebration of his Ghazal Singing.",
+        "contact": "9439708327",
+        "email": "contactforbusiness@gmail.com",
+        "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-timeless-pankaj-udhas-a-live-ghazal-concert-0-2022-6-24-t-13-2-14.jpg"
     }
 ]
